@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.main-content-container{
+	background-color: blue;
+	width: 60%;
+}
+
+.icon-container{
+	margin-top: 10px;
+	width: 25%;
+	background-color: #666;
+}
+
+.header-sidebar-container{
+	width: 23%;
+	background-color: #999;
+	float: left;
+}
+
+.navigation-sidebar-container{
+	width: 23%;
+	background-color: #666;
+	float: left;
+}
+
+.article-container{
+	width: 52%;
+	background-color: #999;
+	float: left;
+}
+
+
+
+.right-sidebar-container{
+	float: right;
+	width: 39%;
+	background-color: #999;
+}
