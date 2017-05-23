@@ -55,8 +55,11 @@ h2{
 
 .title{
 	width: 100%;
-	background-color: #222;
-	height: 50px;
+}
+
+.title h2{
+	font: 24px Georgia, serif;
+	font-weight: 700;
 }
 
 .right-sidebar-container{
