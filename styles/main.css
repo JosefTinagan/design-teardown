@@ -55,16 +55,29 @@ h2{
 
 .title{
 	width: 100%;
-	
+	background-color: #222;
+	height: 50px;
 }
 
 .right-sidebar-container{
 	float: right;
 	width: 39%;
-	background-color: #999;
+	background-color: #fff;
 }
 
-.sidebar{
-	background-color: #222;
-	height: 300px;
+.darker{
+	background-color: #555;
+}
+
+.top-margin{
+	margin-top: 50px;
+}
+
+.short{
+	width: 30%;
+	height: 30px;
+}
+
+.lighter{
+	background-color: #ccc;
 }
